@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Java**
 
-- 📫 How to reach me **akashkumar59200@gmail.com**
+- 📫 Reach me on **akashkumar59200@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/3eXDUpi4m](https://resume.io/r/3eXDUpi4m)
 
