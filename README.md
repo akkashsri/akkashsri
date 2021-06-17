@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Javascript, Java**
+- 💬 Ask me about **Javascript, Java, MySQL**
 
 - 📫 Reach me on **akashkumar59200@gmail.com**
 
