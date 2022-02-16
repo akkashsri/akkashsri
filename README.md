@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkashsri&label=Profile%20views&color=0e75b6&style=flat" alt="akkashsri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akkashsri" target="blank"><img src="https://img.shields.io/twitter/follow/akkashsri?logo=twitter&style=for-the-badge" alt="akkashsri" /></a> </p>
-
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **Android, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
