@@ -13,7 +13,7 @@
 
 - 📫 Reach me on **akashkumar59200@gmail.com**
 
-- ⚡ Know about my experiences [akkashsri.tech](https://www.akkashsri.tech)
+- ⚡ Know about my experiences [akkashsri.me](https://www.akkashsri.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
