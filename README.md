@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A Passionate Developer From Punjab, India</h3>
+<h3 align="center">A Passionate Backend Developer From Punjab, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkashsri&label=Profile%20views&color=0e75b6&style=flat" alt="akkashsri" /> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Spring Boot Projects**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Javascript, Java, MySQL**
+- 💬 Ask me about **Java, Spring Boot, Microservices, MySQL, AWS**
 
 - 📫 Reach me on **akashkumar59200@gmail.com**
 
-- ⚡ Know about my experiences [akkashsri.me](https://www.akkashsri.me)
+- ⚡ Check out my resume [here](https://drive.google.com/file/d/1CfOq4MwI0WQG40voUaNZ3ItCg7ftMvnl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
